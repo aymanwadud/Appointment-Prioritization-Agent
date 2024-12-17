@@ -1,0 +1,12 @@
+[
+    {
+        "appointment_id": "2024-12-16-1",
+        "patient_id": 1,
+        "physician_id": 1,
+        "date": "2024-12-16",
+        "time": "10:00",
+        "status": "booked",
+        "reason": "",
+        "priority_score": 0
+    }
+]
